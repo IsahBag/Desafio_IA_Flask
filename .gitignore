@@ -1,0 +1,8 @@
+# Ignorar arquivos relacionados às chaves de API
+.env
+
+# Ignorar ambiente virtual
+desafio_tradutor/
+
+# Ignorar pycache
+__pycache__/
