@@ -1,4 +1,4 @@
-## Desafio: Criação de aplicativo Web de IA usando Python e Flask
+## Instruções:
 
 1. Criar diretório do projeto:
     mkdir nome_projeto
