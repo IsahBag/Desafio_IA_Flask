@@ -1,4 +1,4 @@
-## Instruções:
+# Instruções
 
 1. Criar diretório do projeto:
     mkdir nome_projeto
@@ -18,7 +18,7 @@
     **executar o comando:**
     pip install -r requirements.txt
 
-5. Criar o aplicativo:    
+5. Criar o aplicativo:
     criar um arquivo chamado app.py
     adicionar o código para criar o aplicativo Flask e a rota para o index
     criar o arquivo index.html dentro da pasta templates
@@ -27,7 +27,7 @@
     set FLASK_ENV=development
     flask run
 
-7. Criar o serviço de tradução no azure e obter o número da chave 
+7. Criar o serviço de tradução no azure e obter o número da chave
 
 8. Criar um arquivo .env para armazenar a chave:
     criar arquivo .env na raiz
@@ -36,7 +36,6 @@
 9. Chamar o serviço de tradução:
     adicionar o código para chamar o serviço, bem como fazer as importações necessárias
     criar o modelo em HTML para a exibição dos resultados
-
 
 <!-- 
 foi acessado original_text, translated_text e target_language, que passamos como parâmetros nomeados em render_template usando {{ }}
